@@ -1,1 +1,64 @@
 
+{
+  "covid": [
+   {
+     "country": "Country",
+     "total case": "Total Case",
+     "rec case": "Recovery Rate",
+     "active case": "Active Case"
+   },
+       {
+     "country": "500",
+     "total case": "1000",
+     "rec case": "1600",
+     "active case": "5000"
+   },
+       {
+     "country": "500",
+     "total case": "1000",
+     "rec case": "1600",
+     "active case": "5000"
+   },
+       {
+     "country": "500",
+     "total case": "1000",
+     "rec case": "1600",
+     "active case": "5000"
+   },
+       {
+     "country": "500",
+     "total case": "1000",
+     "rec case": "1600",
+     "active case": "5000"
+   },
+       {
+     "country": "500",
+     "total case": "128381261",
+     "rec case": "12%",
+     "active case": "27653232"
+   },
+       {
+     "country": "500",
+     "total case": "1000",
+     "rec case": "1600",
+     "active case": "5000"
+   },
+       {
+     "country": "500",
+     "total case": "1000",
+     "rec case": "1600",
+     "active case": "5000"
+   },
+       {
+     "country": "500",
+     "total case": "1000",
+     "rec case": "1600",
+     "active case": "5000"
+   },'   {
+     "country": "500",
+     "total case": "1000",
+     "rec case": "1600",
+     "active case": "5000"
+   }
+  ]
+}
