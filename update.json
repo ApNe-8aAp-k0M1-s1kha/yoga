@@ -7,6 +7,12 @@
      "rec case": "Recovery Rate",
      "active case": "Active Case"
    },
+      {
+     "country": "World",
+     "total case": "1000",
+     "rec case": "1600",
+     "active case": "5000"
+   },
        {
      "country": "USA",
      "total case": "1000",
