@@ -2,9 +2,40 @@
 {
   "prevent": [
           {
-            "title": "1. Modified Push-Up on Yoga Block",
-            "body": "Expert says do push-ups with their kneesdirectly on the floor. 'Expert likes thesurface to be elevated, so you're kneelingbut are 6 to 10 inches off the ground. It’s little more similar to the form of a proper push-up, so when we eventually transition from knees to toes it’s a lot easier.'",
-            "imageurl": "https://drive.google.com/uc?id=1cbC8q_4YpjfYPlFTtDahTK4Frgr6seqH"
-          }
+            "title": "1. Masks",
+            "body": "Masks help to prevent the spread of the corona virus from the person wearing the mask to others. Masks alone do not protect against COVID-19, and should be combined with physical distancing and hand hygiene. Follow the advice provided by your local health authority.",
+            "imageurl": "https://drive.google.com/uc?id=1V4sWoCMYN7ujd8vV9Tfj5iImmm8qzmE9"
+          },
+         {
+            "title": "2. Wash your hands often",
+            "body": "Wash your hands often with soap & water for at least 20 seconds especially after you have been in a public place, or even after blowing your nose, coughing, or sneezing. It’s especially important to wash:
+ Before eating or preparing food 
+ Before touching your face
+ After using the restroom
+ After leaving a public place
+ After blowing your nose, coughing, or sneezing
+ After handling your mask
+ After changing a diaper
+ After caring for someone sick
+ After touching animals or pets",
+            "imageurl": "https://drive.google.com/uc?id=1V4sWoCMYN7ujd8vV9Tfj5iImmm8qzmE9"
+          },
+           {
+            "title": "3. Avoid close contact",
+            "body": "Inside your home: Avoid close contact with people who are sick.
+1) If possible, maintain 2 meter between the person who is sick and other household members.
+2) Outside your home: Put 2 meter of distance between yourself and people who don’t live in your household.
+3) Remember that some people without symptoms may be able to spread virus.
+4) Stay at least 2 meter from other people.
+5) Keeping distance from others is especially important for people who are at higher risk of getting very sick.",
+            "imageurl": "https://drive.google.com/uc?id=1V4sWoCMYN7ujd8vV9Tfj5iImmm8qzmE9"
+          },
+    {
+      "title":"4. Cover coughs and sneezes",
+      "body": "Always cover your mouth and nose with a tissue when you cough or sneeze or use the inside of your elbow and do not spit. 
+     1) Throw used tissues in the trash.
+     2) Immediately wash your hands with soap and water for at least 20 seconds. If soap and water are not readily available, clean your hands with a hand sanitizer that contains at least 60% alcohol.",
+      "imageurl": "https://drive.google.com/uc?id=1V4sWoCMYN7ujd8vV9Tfj5iImmm8qzmE9"
+    
          ]
 }
