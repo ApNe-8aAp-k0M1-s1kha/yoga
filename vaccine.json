@@ -1,1 +1,10 @@
 
+{
+  "vaccine": [
+          {
+            "title": "Covid 19 Vaccine update",
+            "body": "The world is in the midst of a COVID-19 pandemic. As WHO and partners work together on the response -- tracking the pandemic, advising on critical interventions, distributing vital medical supplies to those in need--- they are racing to find a vaccine. Vaccines save millions of lives each year. Vaccines work by training and preparing the body’s natural defences --- the immune system--- to recognize and fight off the viruses and bacteria they target.  If the body is exposed to those disease-causing germs later, the body is immediately ready to destroy them, preventing illness.   Immunization currently prevents 2-3 million deaths every year from diseases like diphtheria, tetanus, pertussis, influenza and measles. There are now vaccines to prevent more than 20 life-threatening diseases, and work is ongoing at unprecedented speed to also make COVID-19 a vaccine-preventable disease. There are currently more than 100 COVID-19 vaccine candidates under development, with a number of these in the human trial phase. WHO is working in collaboration with scientists, business, and global health organizations through the ACT Accelerator to speed up the pandemic response. When a safe and effective vaccine is found, COVAX (led by WHO, GAVI and  CEPI) will facilitate the equitable access and distribution of these vaccines to protect people in all countries. People most at risk will be prioritized.",
+            "imageurl": "https://drive.google.com/uc?id=1cbC8q_4YpjfYPlFTtDahTK4Frgr6seqH"
+          }
+         ]
+}
