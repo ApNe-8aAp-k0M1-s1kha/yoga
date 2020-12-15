@@ -1,28 +1,28 @@
 {
   "songQues": [
    {
-     "ques": " ques 1",
-     "opt 1": "opt 1",
-     "opt 2": "opt 2",
-     "ans": "opt 1"
+     "ques": "What is this App's name?",
+     "opt 1": "McCO Music",
+     "opt 2": "Fetorzo",
+     "ans": "McCO Music"
     },
    {
-     "ques": "ques 2",
-     "opt 1": "opt 2",
-     "opt 2": "opt 3",
-     "ans": "opt 3"
+     "ques": "You are the citizen of?",
+     "opt 1": "Indian",
+     "opt 2": "Non-Indian",
+     "ans": "Indian"
     },
    {
-     "ques": "ques 3",
-     "opt 1": "opt 3",
-     "opt 2": "pot 4",
-     "ans": "opt 3"
+     "ques": "Latest song of Honey Singh?",
+     "opt 1": "Loca",
+     "opt 2": "First Kiss",
+     "ans": "First Kiss"
     },
    {
-     "ques": "ques 4",
-     "opt 1": "opt 4",
-     "opt 2": "opt 5",
-     "ans": "opt 4"
+     "ques": "Latest Song of Badshah?",
+     "opt 1": "Genda Phool",
+     "opt 2": "Awaara",
+     "ans": "Genda Phool"
     },
   ]
 }
