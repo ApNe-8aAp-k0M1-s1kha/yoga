@@ -1,28 +1,28 @@
 {
   "songQues": [
    {
-     "ques": "What is this App's name?",
-     "opt 1": "McCO Music",
-     "opt 2": "Fetorzo",
-     "ans": "McCO Music"
+     "ques": "Which of the following musical instruments is of Indian origin?",
+     "opt 1": "Flute",
+     "opt 2": "Drums",
+     "ans": "Flute"
     },
    {
-     "ques": "You are the citizen of?",
-     "opt 1": "Indian",
-     "opt 2": "Non-Indian",
-     "ans": "Indian"
+     "ques": "When was Lata Mangeshkar awarded the Padma Bhushan?",
+     "opt 1": "2001",
+     "opt 2": "1969",
+     "ans": "1969"
     },
    {
-     "ques": "Latest song of Honey Singh?",
-     "opt 1": "Loca",
-     "opt 2": "First Kiss",
-     "ans": "First Kiss"
+     "ques": "Which playback singer has been awarded the Bharat Ratna, the nation's highest civilian honour?",
+     "opt 1": "Lata Mangeshkar",
+     "opt 2": "Hank Marvin",
+     "ans": "Lata Mangeshkar"
     },
    {
-     "ques": "Latest Song of Badshah?",
-     "opt 1": "Genda Phool",
-     "opt 2": "Awaara",
-     "ans": "Genda Phool"
+     "ques": "Raga 'Lajwanti' was composed by _________?",
+     "opt 1": "Hank Marvin",
+     "opt 2": "Ustad Ali Akbar Khan",
+     "ans": "Ustad Ali Akbar Khan"
     },
   ]
 }
