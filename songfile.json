@@ -1,28 +1,28 @@
 {
   "songQues": [
    {
-     "ques": "Which of the following musical instruments is of Indian origin?",
-     "opt 1": "Flute",
-     "opt 2": "Drums",
-     "ans": "Flute"
+     "ques": " Which of the following represents ‘Mewati Gharana’?",
+     "opt 1": "Rajan Mishra – Sajan Mishra",
+     "opt 2": "Joti Ram – Moti Ram",
+     "ans": "Joti Ram – Moti Ram"
     },
    {
-     "ques": "When was Lata Mangeshkar awarded the Padma Bhushan?",
-     "opt 1": "2001",
-     "opt 2": "1969",
-     "ans": "1969"
+     "ques": "Name the pair of playback singers in the film ‘Sur-Sangam’",
+     "opt 1": "Salamat Ali-Nazakat Ali",
+     "opt 2": "Rajan-Sajan Mishra",
+     "ans": "Rajan-Sajan Mishra"
     },
    {
-     "ques": "Which playback singer has been awarded the Bharat Ratna, the nation's highest civilian honour?",
-     "opt 1": "Lata Mangeshkar",
-     "opt 2": "Hank Marvin",
-     "ans": "Lata Mangeshkar"
+     "ques": "Haveli Sangeet falls under which musical form?",
+     "opt 1": "Dhrupad",
+     "opt 2": "Khyal",
+     "ans": "Dhrupad"
     },
    {
-     "ques": "Raga 'Lajwanti' was composed by _________?",
-     "opt 1": "Hank Marvin",
-     "opt 2": "Ustad Ali Akbar Khan",
-     "ans": "Ustad Ali Akbar Khan"
+     "ques": "Following Swara combination is of which Raga?",
+     "opt 1": "Multani",
+     "opt 2": "Hindol",
+     "ans": "Hindol"
     },
   ]
 }
