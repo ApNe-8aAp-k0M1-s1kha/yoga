@@ -1,28 +1,28 @@
 {
   "songQues": [
    {
-     "ques": " Which of the following represents ‘Mewati Gharana’?",
-     "opt 1": "Rajan Mishra – Sajan Mishra",
-     "opt 2": "Joti Ram – Moti Ram",
-     "ans": "Joti Ram – Moti Ram"
+     "ques": "In which State is the folk dance Fugdi performed traditionally?",
+     "opt 1": "Goa",
+     "opt 2": "Sikkim",
+     "ans": "Goa"
     },
    {
-     "ques": "Name the pair of playback singers in the film ‘Sur-Sangam’",
-     "opt 1": "Salamat Ali-Nazakat Ali",
-     "opt 2": "Rajan-Sajan Mishra",
-     "ans": "Rajan-Sajan Mishra"
+     "ques": "Who is not related to music?",
+     "opt 1": "Picasso",
+     "opt 2": "Mozart",
+     "ans": "Picasso"
     },
    {
-     "ques": "Haveli Sangeet falls under which musical form?",
-     "opt 1": "Dhrupad",
-     "opt 2": "Khyal",
-     "ans": "Dhrupad"
+     "ques": "Karakattam is a dance form of –",
+     "opt 1": "Karnataka",
+     "opt 2": "Tamil Nadu",
+     "ans": "Tamil Nadu"
     },
    {
-     "ques": "Following Swara combination is of which Raga?",
-     "opt 1": "Multani",
-     "opt 2": "Hindol",
-     "ans": "Hindol"
+     "ques": "Hojagiri dance is native to which State?",
+     "opt 1": "Odisha",
+     "opt 2": "Tripura",
+     "ans": "Tripura"
     },
   ]
 }
