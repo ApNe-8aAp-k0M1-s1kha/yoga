@@ -1,28 +1,28 @@
 {
   "songQues": [
    {
-     "ques": "In which State is the folk dance Fugdi performed traditionally?",
-     "opt 1": "Goa",
-     "opt 2": "Sikkim",
-     "ans": "Goa"
+     "ques": "Siddheshwari Devi was a leading artist of",
+     "opt 1": "Thumri",
+     "opt 2": "Dhrupad",
+     "ans": "Thumri"
     },
    {
-     "ques": "Who is not related to music?",
-     "opt 1": "Picasso",
+     "ques": "‘Vatapiganapatim’ is composed by",
+     "opt 1": "Muttuswami Dikshitar",
      "opt 2": "Mozart",
-     "ans": "Picasso"
+     "ans": "Muttuswami Dikshitar"
     },
    {
-     "ques": "Karakattam is a dance form of –",
-     "opt 1": "Karnataka",
-     "opt 2": "Tamil Nadu",
-     "ans": "Tamil Nadu"
+     "ques": "Who mentioned saranachatustai for the first time?",
+     "opt 1": "Bharat",
+     "opt 2": "Sharangdev",
+     "ans": "Bharat"
     },
    {
-     "ques": "Hojagiri dance is native to which State?",
-     "opt 1": "Odisha",
-     "opt 2": "Tripura",
-     "ans": "Tripura"
+     "ques": "Which song of Diljit Dosanjh is more famous?",
+     "opt 1": "Laembadgini",
+     "opt 2": "5 taara",
+     "ans": "Laembadgini"
     },
   ]
 }
